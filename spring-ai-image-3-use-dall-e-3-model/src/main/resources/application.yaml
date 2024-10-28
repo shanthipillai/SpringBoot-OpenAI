@@ -4,4 +4,4 @@ spring:
 #Pass API key as environment variable, e.g. -DOPENAI_API_KEY=your-api-key
   ai:
     openai:
-      api-key: 
+      api-key: your Open API Key Here
